@@ -25,4 +25,6 @@ just added this
 
 [ this points to unpublished note](unpublishenote.md)
 
+[ this also points to an unpublished note created after I switched the setting](unpubl2.md)
+
 
