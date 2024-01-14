@@ -32,6 +32,10 @@ layout: null
         </item>
         {% endfor %}
 
+        <!-- end of site documents -->
+      {{site}}
+          {{ site.documents }}
+          
     
     </channel>
 </rss>
