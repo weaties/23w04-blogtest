@@ -29,7 +29,7 @@ layout: null
             <description>{{ page.excerpt }}</description>
             <pubDate>{{ page.date | date_to_rfc822 }}</pubDate>
             <link>{{site.url}}{{ page.url }}</link>
-            <guid isPermaLink="true">{{ page.url }}</guid>
+            <guid isPermaLink="true">{{site.url}}{{ page.url }}</guid>
         </item>
         {% endfor %}    
     </channel>
