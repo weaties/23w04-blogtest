@@ -13,7 +13,7 @@ When you're ready, delete this note and make the vault your own.
 
 This is a test
 
-[link to another doc](./link%20to%20another%20doc.md)
+[anotherdoc](./anotherdoc.md)
 
 [a file with some pictures in it](./a%20file%20with%20some%20pictures%20in%20it.md) 
 
