@@ -33,9 +33,18 @@ layout: null
         {% endfor %}
 
         <!-- end of site documents -->
-      {{site}}
+
+          <!-- start site  -->          
+          {{site}}
+          <!-- end  site  -->          
+          <!-- start site document -->
           {{ site.documents }}
+          <!-- end site document -->
+
           
+          <!-- start site pages -->
+          {{ site.pages }}
+          <!-- end site pages -->          
     
     </channel>
 </rss>
