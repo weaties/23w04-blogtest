@@ -22,29 +22,14 @@ layout: null
         {% endfor %}
       
         <!-- List of your site's documents -->
-        {% for document in site.documents %}
+        {% for page in site.pages %}
         <item>
-            <title>{{ document.title }}</title>
-            <description>{{ document.excerpt }}</description>
-            <pubDate>{{ document.date | date_to_rfc822 }}</pubDate>
-            <link>{{ document.url }}</link>
-            <guid isPermaLink="true">{{ document.url }}</guid>
+            <title>{{ page.title }}</title>
+            <description>{{ page.excerpt }}</description>
+            <pubDate>{{ page.date | date_to_rfc822 }}</pubDate>
+            <link>{{ page.url }}</link>
+            <guid isPermaLink="true">{{ page.url }}</guid>
         </item>
-        {% endfor %}
-
-        <!-- end of site documents -->
-
-          <!-- start site  -->          
-          {{site}}
-          <!-- end  site  -->          
-          <!-- start site document -->
-          {{ site.documents }}
-          <!-- end site document -->
-
-          
-          <!-- start site pages -->
-          {{ site.pages }}
-          <!-- end site pages -->          
-    
+        {% endfor %}    
     </channel>
 </rss>
