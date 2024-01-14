@@ -2,6 +2,7 @@
 share: true
 title: 240114 letter to mom - this is in the front matter
 layout: post
+author: Dan Weatbrook
 ---
 
 
