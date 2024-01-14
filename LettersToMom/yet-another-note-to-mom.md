@@ -3,6 +3,7 @@ share: true
 title: yet-another-note to-mom
 excerpt: this note does not have spaces in the filename, but does have a space in the descrition
 layout: post
+author: Dan Weatbrook
 ---
 
 
