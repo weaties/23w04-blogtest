@@ -28,4 +28,4 @@ just added this
 [ this also points to an unpublished note created after I switched the setting](unpubl2.md)
 
 
-[240114-letter-to-mom](240114-letter-to-mom.md) 
+[240114-letter-to-mom](./240114-letter-to-mom.md) 
