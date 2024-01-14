@@ -15,3 +15,7 @@ This is a test
 
 [[link to another doc|link to another doc]]
 
+[[a file with some pictures in it|a file with some pictures in it]] 
+
+
+
