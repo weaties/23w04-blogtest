@@ -2,6 +2,7 @@
 share: true
 post: true
 title: post2
+layout: post
 ---
 
 Anim ad elit adipisicing proident aliquip minim dolore. Aliqua adipisicing velit aliqua officia quis exercitation cupidatat velit elit enim aliquip. Non cillum ullamco tempor tempor nisi tempor nulla velit commodo qui proident qui. Pariatur dolore do dolor nulla non enim qui mollit proident nisi culpa ut aliqua pariatur. Laborum do magna adipisicing cupidatat est.
