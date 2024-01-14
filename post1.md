@@ -2,6 +2,7 @@
 share: true
 post: true
 title: post1
+layout: post
 ---
 
 Ut eu anim mollit nostrud irure veniam ut elit irure fugiat. Dolor minim pariatur velit labore. Elit ut exercitation eu. Excepteur aliquip anim dolor exercitation pariatur sit. Sunt sit dolor sunt ipsum id est dolore sint nulla fugiat velit. Proident ut laborum quis.
