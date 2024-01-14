@@ -21,3 +21,8 @@ just added this
 
 
 [anotherfolderwithapic](./anotherfolderwithapic.md) 
+
+
+[ this points to unpublished note](unpublishenote.md)
+
+
