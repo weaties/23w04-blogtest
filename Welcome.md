@@ -28,15 +28,15 @@ just added this
 [ this also points to an unpublished note created after I switched the setting](unpubl2.md)
 
 
-[240114-letter-to-mom](./240114-letter-to-mom.md) 
+[240114 letter to mom - this is in the front matter](./LettersToMom/240114%20letter%20to%20mom%20-%20this%20is%20in%20the%20front%20matter.md) 
 
 [justaddedajekyllthemetogithubpages](./justaddedajekyllthemetogithubpages.md)
 
 
-[post1](./post1.md)
+[post1](./_posts/post1.md)
 
-[post2](./post2.md)
+[post2](./_posts/post2.md)
 
-[2024-01-14-testingapost](./2024-01-14-testingapost.md)
+[tjhis is a test post trying to get it to show up in the feed.xml file](./_posts/tjhis%20is%20a%20test%20post%20trying%20to%20get%20it%20to%20show%20up%20in%20the%20feed.xml%20file.md)
 
 
