@@ -20,5 +20,18 @@ layout: null
             <guid isPermaLink="true">{{ post.url }}</guid>
         </item>
         {% endfor %}
-    </channel>
+      
+        <!-- List of your site's documents -->
+        {% for document in site.documents %}
+        <item>
+            <title>{{ document.title }}</title>
+            <description>{{ document.excerpt }}</description>
+            <pubDate>{{ document.date | date_to_rfc822 }}</pubDate>
+            <link>{{ document.url }}</link>
+            <guid isPermaLink="true">{{ document.url }}</guid>
+        </item>
+        {% endfor %}
+
+    
+    </channel>
 </rss>
