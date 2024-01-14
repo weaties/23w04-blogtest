@@ -15,7 +15,7 @@ This is a test
 
 [anotherdoc](./anotherdoc.md)
 
-[a file with some pictures in it](./a%20file%20with%20some%20pictures%20in%20it.md) 
+[afilewithpicsbutnospacesinname](./afilewithpicsbutnospacesinname.md) 
 
 just added this
 
