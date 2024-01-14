@@ -25,6 +25,7 @@ layout: null
         {% for page in site.pages %}
         <item>
             <title>{{ page.title }}</title>
+            <id>{{ page.id }}</id>
             <description>{{ page.excerpt }}</description>
             <pubDate>{{ page.date | date_to_rfc822 }}</pubDate>
             <link>{{ page.url }}</link>
