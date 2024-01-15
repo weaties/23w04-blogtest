@@ -14,3 +14,6 @@ Dolore anim voluptate ullamco adipisicing reprehenderit fugiat. Adipisicing sint
 
 Dolor sunt fugiat sunt adipisicing occaecat cillum. Pariatur id ex nulla eu labore aliquip magna. Dolore dolore excepteur magna velit aliquip veniam exercitation velit. Ullamco sunt mollit eiusmod culpa fugiat exercitation exercitation. Fugiat cillum cillum et eiusmod tempor adipisicing qui consectetur. Consectetur laboris velit incididunt exercitation officia.
 
+![CleanShot 2024-01-14 at 16.29.07@2x.png](./attachments/CleanShot%202024-01-14%20at%2016.29.07@2x.png)
+
+a screen shot of the graph
