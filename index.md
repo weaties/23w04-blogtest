@@ -40,10 +40,13 @@ Below this is some liquid templating - let's see if it get's published.
 
 itteraring over objects in the collection
 
-	{% for page in collection %}
-### page - 
-{{page}} 
+	{% for attribute in collection %}
+ attribute - {{attribute}} 
 
+{% for subattr in attribute %}
+subattr - {{subattr}}
+{% endfor %}
 
 {% endfor %}
 {% endfor %} 
+
