@@ -6,6 +6,8 @@ date: '"2024-01-14"'
 ---
 
 
+
+
 Qui duis proident sunt irure in eiusmod nostrud incididunt labore laborum. Cupidatat excepteur consectetur ad quis sint est ipsum culpa. Elit tempor nulla cupidatat Lorem amet nulla veniam. Esse sit excepteur proident mollit ex Lorem cillum ad dolore irure occaecat mollit nostrud.
 
 Ipsum fugiat ipsum ipsum. Cupidatat amet et nulla reprehenderit Lorem fugiat excepteur ipsum anim cupidatat adipisicing quis consectetur magna. Aliqua aliqua do consectetur voluptate qui aute dolor irure laborum est est deserunt. Irure anim incididunt reprehenderit sunt aute elit officia aliqua incididunt tempor amet. Qui sunt excepteur exercitation anim voluptate deserunt dolore tempor. Sint incididunt et dolor commodo ullamco aliquip nisi aliqua.
@@ -21,3 +23,9 @@ a screen shot of the graph
 ![CleanShot 2024-01-14 at 16.42.04@2x.png](./attachments/CleanShot%202024-01-14%20at%2016.42.04@2x.png)
 
 screen shot after dead chicken
+
+
+![CleanShot 2024-01-14 at 16.52.11@2x](../attachments/CleanShot%202024-01-14%20at%2016.52.11@2x.png)
+
+another dead checking
+
