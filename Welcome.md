@@ -33,14 +33,13 @@ just added this
 [justaddedajekyllthemetogithubpages](./justaddedajekyllthemetogithubpages.md)
 
 
-[post1](./_posts/post1.md)
+[post1](post1.md)
 
-[post2](./_posts/post2.md)
+[post2](post2.md)
 
-[2024-01-14-testingapost](./_posts/2024-01-14-testingapost.md)
+[2024-01-14-testingapost](2024-01-14-testingapost.md)
 
 [test-in-the-letter-to-moms-folder](./LettersToMom/test-in-the-letter-to-moms-folder.md)
-
 
 
 
