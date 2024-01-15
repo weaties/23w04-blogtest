@@ -17,3 +17,7 @@ Dolor sunt fugiat sunt adipisicing occaecat cillum. Pariatur id ex nulla eu labo
 ![CleanShot 2024-01-14 at 16.29.07@2x.png](./attachments/CleanShot%202024-01-14%20at%2016.29.07@2x.png)
 
 a screen shot of the graph
+
+![CleanShot 2024-01-14 at 16.42.04@2x.png](./attachments/CleanShot%202024-01-14%20at%2016.42.04@2x.png)
+
+screen shot after dead chicken
