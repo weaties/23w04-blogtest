@@ -40,7 +40,8 @@ Below this is some liquid templating - let's see if it get's published.
 
 loop top
 
-title report.title
+title {{report.title}}
+url {{report.url}}
 
 
 {% endfor %} 
