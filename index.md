@@ -5,7 +5,7 @@ share: true
 
 this is the index file.
 
-[about](about.md)
+[about](./about.md)
 
 [Welcome](./Welcome.md)
 
@@ -18,3 +18,4 @@ this is the index file.
 
 
 [24-01-15-a-day-in-the-mountains](./LettersToMom/24-01-15-a-day-in-the-mountains.md)
+
