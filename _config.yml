@@ -3,4 +3,12 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false
 
+collections_dir: my_collections
+
+collections:
+  dayreports:
+    output: true
+  letters: 
+    output: true
+
 url: https://weaties.github.io/24w04-blogtest
