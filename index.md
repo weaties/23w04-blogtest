@@ -38,7 +38,8 @@ Below this is some liquid templating - let's see if it get's published.
 
 	{% for page in collection %}
 
-### page - {{page.title}} -> {{page.url}}
+### page - {{page.title}} 
+the page url should b here {{page.url}}
 
 {% endfor %}
 {% endfor %} 
