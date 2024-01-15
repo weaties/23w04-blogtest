@@ -17,4 +17,4 @@ this is the index file.
 [24-01-14-5-19pm-another test](./LettersToMom/24-01-14-5-19pm-another%20test.md)
 
 
-[24-01-15-a day in The mountains.](./LettersToMom/24-01-15-a%20day%20in%20The%20mountains..md)
+[24-01-15-a-day-in-the-mountains](./LettersToMom/24-01-15-a-day-in-the-mountains.md)
