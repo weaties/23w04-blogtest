@@ -5,7 +5,7 @@ share: true
 
 this is the index file.
 
-[about](about.md)
+[about](./about.md)
 
 [Welcome](./Welcome.md)
 
