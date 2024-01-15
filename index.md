@@ -30,23 +30,18 @@ Below this is some liquid templating - let's see if it get's published.
 {% endfor %}    
 
 
-# collections
 
-{% for collection in site.collections %}
 
-## collection - 
 
-{{collection}}
 
-itteraring over objects in the collection
+# day reports
 
-	{% for attribute in collection %}
- attribute - {{attribute}} 
+{% for report in site.dayreports %}
 
-{% for subattr in attribute %}
-subattr - {{subattr}}
-{% endfor %}
+loop top
 
-{% endfor %}
+title report.title
+
+
 {% endfor %} 
 
