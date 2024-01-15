@@ -23,5 +23,7 @@ Below this is some liquid templating - let's see if it get's published.
 
 
 {% for page in site.pages %}
-	- [{{ page.title }}]({{site.url}}{{ page.url }})
+
+[{{ page.title }}]({{site.url}}{{ page.url }})
+
 {% endfor %}    
