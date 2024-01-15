@@ -34,12 +34,16 @@ Below this is some liquid templating - let's see if it get's published.
 
 {% for collection in site.collections %}
 
-## collection - {{collection}}
+## collection - 
+
+{{collection}}
+
+itteraring over objects in the collection
 
 	{% for page in collection %}
+### page - 
+{{page}} 
 
-### page - {{page.title}} 
-the page url should b here {{page.url}}
 
 {% endfor %}
 {% endfor %} 
