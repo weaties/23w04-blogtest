@@ -1,6 +1,5 @@
 ---
 share: true
-layout: post
 excerpt: Nostrud ipsum aliquip qui cillum est ut. In anim officia cillum et quis in sit.
 title: this is the title from the properties - this is in the letterstomom
 ---
