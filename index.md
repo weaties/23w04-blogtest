@@ -22,8 +22,23 @@ Below this is some liquid templating - let's see if it get's published.
 
 
 
+# page titles
 {% for page in site.pages %}
 
 [{{ page.title }}]({{site.url}}{{ page.url }})
 
 {% endfor %}    
+
+
+# collections
+
+{% for collection in site.collections %}
+
+## collection - {{collection}}
+
+	{% for page in collection %}
+
+### page - {{page.title}} -> {{page.url}}
+
+{% endfor %}
+{% endfor %} 
