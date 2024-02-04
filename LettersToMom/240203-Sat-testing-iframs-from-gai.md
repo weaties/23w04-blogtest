@@ -15,7 +15,7 @@ Consequat aliqua eu enim consectetur culpa voluptate irure aute non. Amet consec
 
 Laborum laborum ea culpa. Do amet proident ut exercitation eiusmod nisi nostrud ea anim. Aliqua proident ad deserunt commodo commodo. Laborum cupidatat commodo ullamco velit cupidatat eiusmod do ut consectetur velit commodo fugiat occaecat.
 
-<iframe src="https://www.gaiagps.com/public/h0uSbhAYJn9hJ5tS3krCuthd/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;" seamless />
+<iframe src="https://www.gaiagps.com/public/h0uSbhAYJn9hJ5tS3krCuthd/?embed=True" style="border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:840px; width:100%; height: 420px;" seamless />
 
 
 
