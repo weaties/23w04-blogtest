@@ -4,7 +4,6 @@ share: true
 
 
 
-
 This is your new *vault*.
 
 Make a note of something, [create a link](create%20a%20link.md), or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
@@ -39,7 +38,7 @@ just added this
 
 [2024-01-14-testingapost](2024-01-14-testingapost.md)
 
-[test-in-the-letter-to-moms-folder](LettersToMom/test-in-the-letter-to-moms-folder.md)
+[test-in-the-letter-to-moms-folder](./LettersToMom/test-in-the-letter-to-moms-folder.md)
 
 
 
