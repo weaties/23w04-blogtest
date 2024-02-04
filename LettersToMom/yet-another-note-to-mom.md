@@ -5,7 +5,6 @@ excerpt: this note does not have spaces in the filename, but does have a space i
 author: Dan Weatbrook
 ---
 
-
 # header 1
 Eiusmod Lorem ipsum exercitation aute culpa in amet adipisicing nostrud. Deserunt et excepteur nostrud amet in cillum quis incididunt pariatur ipsum eiusmod cillum sint anim adipisicing. Lorem occaecat Lorem exercitation excepteur sint mollit. Labore do ea fugiat. Cupidatat duis enim minim. Ut proident quis dolor id ullamco enim do tempor est qui dolor qui id.
 
