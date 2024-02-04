@@ -9,7 +9,6 @@ excerpt: this is the excerpt from the properties
 
 
 
-
 This should should up in the LettersToMom folder
 
 
