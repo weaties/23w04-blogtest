@@ -6,7 +6,6 @@ author: Dan Weatbrook
 ---
 
 
-
 Good Morning Mom!
 
 I hope that things are goign well for you today.  things are good here.  we are up at the condo, and it is COLD!!!   and there is not fresh snow, but that's oK. we had a good time anyway.
