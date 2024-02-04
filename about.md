@@ -1,7 +1,6 @@
 ---
 share: true
 ---
-
 # about
 This is my attempt to figure out how it is that I might use obsidian as my content mangaement system, and then publish it as a static website.  
 
