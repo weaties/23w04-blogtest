@@ -5,7 +5,6 @@ share: true
 
 
 
-
 Good morning.  
 
 I spent a good portion of yesterday working on how to publish my blog using obsidian and gothib publisher.  
