@@ -5,7 +5,6 @@ excerpt: In an unusually laid-back day, John strays from routine to explore a su
 author: Dan Weatbrook
 title: test post to get into the rss feed
 ---
-
 OK - this is a test post - trying to get shit to show up in my jelkyll site hosted on github pages and then in the RSS Feed.
 
 In the bright and early moments of January 14, 2024, John woke up. The sound of a soft symphony filled the room, as his smart alarm gradually increased the volume of the music rather than abruptly disturbing the serene morning silence.

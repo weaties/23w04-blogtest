@@ -3,7 +3,6 @@ share: true
 ---
 
 
-
 this is a pic
 
 ![CleanShot 2024-01-14 at 08.31.50@2x.png](./attachments/CleanShot%202024-01-14%20at%2008.31.50@2x.png)
